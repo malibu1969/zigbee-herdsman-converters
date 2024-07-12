@@ -1,5 +1,17 @@
 # Changelog
 
+## [19.68.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.67.0...v19.68.0) (2024-07-12)
+
+
+### Features
+
+* **add:** MCT-302 SMA ([#7759](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7759)) ([fc6fd20](https://github.com/Koenkk/zigbee-herdsman-converters/commit/fc6fd20c8730b32ea1c382539d024eb9cf04a679))
+
+
+### Bug Fixes
+
+* **detect:** Detect `RH0039` as Lanesto 322054 @JoostV https://github.com/Koenkk/zigbee2mqtt/discussions/23322 ([10c51b4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/10c51b47ebf3637fe902ed03698c767c5dc49103))
+
 ## [19.67.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.66.0...v19.67.0) (2024-07-11)
 
 
